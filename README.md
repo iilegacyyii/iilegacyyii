@@ -1,4 +1,11 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iilegacyyii&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iilegacyyii&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iilegacyyii&layout=compact" align="center" />
+</div> 
+
+<div>
+  <br>
+</div>
 
 <div align="center">
 <a href="https://github.com/iilegacyyii" target="_blank">
